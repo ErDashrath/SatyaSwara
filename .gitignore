@@ -4,3 +4,8 @@ __pycache__/
 venv/
 .venv/
 *.safetensors
+Deepfake-audio-detection/
+docker-compose.yml
+Dockerfile
+.dockerignore
+
