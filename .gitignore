@@ -9,4 +9,7 @@ Deepfake-audio-detection/
 docker-compose.yml
 Dockerfile
 .dockerignore
+server.log
+ngrok-v3-stable-linux-amd64.tgz
+ngrok.log
 
