@@ -4,7 +4,7 @@
 import requests
 import json
 
-API_URL = "http://localhost:8001/api/voice-detection"
+API_URL = "http://localhost:8000/api/voice-detection"
 API_KEY = "sk_live_ai_voice_detect_2026_xKp9Qm3R"
 
 def test_audio_file(filename, language="English"):
